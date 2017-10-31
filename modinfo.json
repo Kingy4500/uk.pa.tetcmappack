@@ -1,0 +1,46 @@
+{
+    "context": "client",
+    "display_name": "TheEffectTheCause's Map pack",
+    "identifier": "uk.pa.tetcmappack",
+    "description": "Wierd and wonderful maps for 1v1, FFA and Teams. Very Aeasthetic, balanced and Fun, made for You the PA community. Layout of the map pack has been changed, instead of one blob list of all maps I have arranged them in to seperate catagories. They are, TETC 1v1 And Shared Teams, TETC Teams and TETC FFA",
+    "author": "TheEffectTheCause",
+    "version": "2.7.3",
+    "build": "105067",
+    "date": "2017-09-11",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/theeffectthecauses-map-pack.71952/",
+    "icon": "http://wanderingspace.net/wp-content/uploads/2009/07/mattias-malmer-from-78-mariner-10.jpg",
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems",
+		"uk.pa.tetctree",
+		"uk.pa.tetctree.server"
+    ],
+    "download": "https://cdn.palobby.com/community-mods/downloads/uk.pa.tetcmappack.zip",
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "theeffectthecause",
+        "map",
+        "pack"
+    ],
+    "sort": "theeffectthecause's map pack",
+    "authors": [
+        "TheEffectTheCause"
+    ],
+    "timestamp": 1472947200000,
+    "companions": [],
+    "scenes": {
+        "load_planet": [
+            "coui://ui/mods/tetcmp1/maplist.js"
+        ]
+    },
+    "framework": false,
+    "available": true,
+    "titansOnly": false,
+    "classic": false,
+    "titans": true,
+    "conflicts": {},
+    "classicOnly": false
+}

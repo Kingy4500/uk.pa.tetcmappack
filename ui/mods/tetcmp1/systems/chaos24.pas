@@ -1,8 +1,8 @@
 {
-    "name": "TETC's Chaos 24p",
+    "name": "TETC's Chaos 24p - Fixed Spawns",
     "planets": [
         {
-            "name": "Korbraak",
+            "name": "Theres no time for Tea",
             "mass": 5000,
             "position_x": 42500,
             "position_y": -37600,

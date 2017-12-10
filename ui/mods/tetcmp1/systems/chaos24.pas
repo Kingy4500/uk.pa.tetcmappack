@@ -1,5 +1,5 @@
 {
-    "name": "TETC's Chaos 24p - Fixed Spawns",
+    "name": "TETC's Chaos 24p",
     "planets": [
         {
             "name": "Theres no time for Tea",

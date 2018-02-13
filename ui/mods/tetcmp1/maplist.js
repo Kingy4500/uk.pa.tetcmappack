@@ -44,6 +44,7 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 		"coui://ui/mods/tetcmp1/systems/broad_walk.pas",
 		"coui://ui/mods/tetcmp1/systems/crowning_glory.pas",
 		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
+	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",
 		"coui://ui/mods/tetcmp1/systems/equal_is_not.pas",
 		"coui://ui/mods/tetcmp1/systems/hexed.pas",
 		"coui://ui/mods/tetcmp1/systems/holy_handNS.pas",

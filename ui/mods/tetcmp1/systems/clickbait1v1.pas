@@ -1,5 +1,5 @@
 {
-    "name": "Clickbait",
+    "name": "Clickbait 1v1 Shared",
     "creator": "TheEffectTheCause",
     "version": "1",
     "description": "A lava planet for all styles of play, A focus on combat at the front and expansion for eco on the rear, A micro heavy 1v1 shared team map",

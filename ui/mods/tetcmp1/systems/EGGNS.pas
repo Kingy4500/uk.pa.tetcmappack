@@ -1,5 +1,5 @@
 {
-    "name": "Battle Egg NS",
+    "name": "Battle Egg 4v4 NS",
 	"creator": "TheEffectTheCause",
 	"version": "1",
 	"description": "The 4v4 no share version.",

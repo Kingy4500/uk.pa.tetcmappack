@@ -1,12 +1,12 @@
 {
-    "name": "Pinch",
-	"creator": "TheEffectTheCause",
-	"version": "2",
-	"description": "A small planet for 4 player FFA, A crater with 4 entrances on one side of the planet is rich in resources, easily defendable, but very contestable, player spawn around the equator while the other side of the planet is ribbed with passages allowing access to the whole outer crater area. Recomended for players of a high level of skill.",
-	"players": [
-	    2,
-		4
-	],
+    "name": "Pinch FFA",
+    "creator": "TheEffectTheCause",
+    "version": "2",
+    "description": "A small planet for 4 player FFA, A crater with 4 entrances on one side of the planet is rich in resources, easily defendable, but very contestable, player spawn around the equator while the other side of the planet is ribbed with passages allowing access to the whole outer crater area. Recomended for players of a high level of skill.",
+    "players": [
+        2,
+        4
+    ],
     "planets": [
         {
             "name": "Mesa",
@@ -3416,5 +3416,6 @@
                 ]
             }
         }
-    ]
+    ],
+    "system_index": 25
 }

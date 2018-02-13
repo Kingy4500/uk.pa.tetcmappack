@@ -1,12 +1,12 @@
 {
-    "name": "The Gulch",
-	"creator": "TheEffectTheCause",
-	"version": "1.2",
-	"description": "Inspired by a map for Total Annihilation, revamped and with a different setting. Made for 8 player FFA. A nice looking desert planet in the style of a Gulch. Lots of choke points and different strats to be had with each position just make sure you make the right move as the wrong one could mean a quick ending for you",
-	"players": [
-	    8,
-		8
-	],
+    "name": "The Gulch FFA/Teams",
+    "creator": "TheEffectTheCause",
+    "version": "1.2",
+    "description": "Inspired by a map for Total Annihilation, revamped and with a different setting. Made for 8 player FFA. A nice looking desert planet in the style of a Gulch. Lots of choke points and different strats to be had with each position just make sure you make the right move as the wrong one could mean a quick ending for you",
+    "players": [
+        8,
+        8
+    ],
     "planets": [
         {
             "name": "Who Owns The Block",
@@ -21287,5 +21287,6 @@
                 ]
             }
         }
-    ]
+    ],
+    "system_index": 23
 }

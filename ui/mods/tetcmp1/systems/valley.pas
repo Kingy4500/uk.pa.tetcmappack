@@ -1,12 +1,12 @@
 {
-    "name": "Valley",
-	"creator": "TheEffectTheCause",
-	"version": "1.1",
-	"description": "For 2v2 No Share. The other team seem's to think this land is their's, i think its time you assure them it is not.",
-	"players": [
-	    4,
-		4
-	],
+    "name": "Valley 2v2 NS",
+    "creator": "TheEffectTheCause",
+    "version": "1.1",
+    "description": "For 2v2 No Share. The other team seem's to think this land is their's, i think its time you assure them it is not.",
+    "players": [
+        4,
+        4
+    ],
     "planets": [
         {
             "name": "VW Beatle Duce",
@@ -5904,5 +5904,6 @@
                 ]
             }
         }
-    ]
+    ],
+    "system_index": 2
 }

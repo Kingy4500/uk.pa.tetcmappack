@@ -1,5 +1,5 @@
 {
-    "name": "Triangulation",
+    "name": "Triangulation 3v3 NS",
 	"creator": "TheEffectTheCause",
 	"version": "1.1",
 	"description": "An Asymetrical map made for team play. Players spawn near to a central platform with large contestable areas either side with chockes leding up to the main platform, 2 out of 3 are drawn to focus on the fron side while the other middle spawn is advised to head for the rear of the planet. Lots of raiding options and enough metal for some big games. Team work and a good strategy is essential. For 3v3 No Share",

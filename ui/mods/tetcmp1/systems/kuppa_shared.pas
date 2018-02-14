@@ -1,5 +1,5 @@
 {
-    "name": "Kuppa Shared 5v5 Shared",
+    "name": "Kuppa 5v5 Shared",
     "creator": "TheEffectTheCause",
     "version": "1.2",
     "description": "A reimagine of Waidhoefers Kappa III, Kuppa is a 10 player map based around 10 player games, this is the SHARED VERSION",

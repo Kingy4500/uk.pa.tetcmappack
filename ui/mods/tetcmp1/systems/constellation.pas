@@ -1,5 +1,5 @@
 {
-    "name": "Constellation",
+    "name": "Constellation 4v4 NS",
 	"creator": "TheEffectTheCause",
 	"version": "1",
 	"description": "A simple 4v4 map with symetry?.",

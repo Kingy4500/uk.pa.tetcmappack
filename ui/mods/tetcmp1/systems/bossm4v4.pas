@@ -1,5 +1,5 @@
 {
-	"name": "Boss Metal 4v4 ns- v2",
+	"name": "Boss Metal 4v4 NS",
 	"creator": "TheEffectTheCause",
 	"version": "2",
 	"description": "V2 Release. Pole V Pole, both poles are split meanign if one side goes down, all sides go down. Some of the best team based play ive had in a while was on this map.",
@@ -8,7 +8,7 @@
 		8
 	],
 	"planets": [{
-			"name": "Your Boss isnt as Boss as me",
+			"name": "Bossanova",
 			"mass": 5000,
 			"position_x": 28900,
 			"position_y": -25400,

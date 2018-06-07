@@ -29,8 +29,6 @@
     "authors": [
         "TheEffectTheCause"
     ],
-    "timestamp": 1472947200000,
-    "companions": [],
     "scenes": {
         "load_planet": [
             "coui://ui/mods/tetcmp1/maplist.js"

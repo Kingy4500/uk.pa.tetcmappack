@@ -2,7 +2,7 @@
     "context": "client",
     "identifier": "uk.pa.tetcmappack",
     "display_name": "TheEffectTheCause's Map Pack",
-    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs, Even comes with its own custom biomes which are usable in the ingame system editor. Note. the biomes are for planets you intend to edit manually. There are 2 tabs to the pack in order to try keep things accessible, these are TETC 1v1/SHARED/ and TETC Teams/FFA.",
+    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs, There are 2 tabs to the pack in order to try keep things accessible, these are TETC 1v1/SHARED/ and TETC Teams/FFA.",
     "author": "TheEffectTheCause",
     "version": "3",
     "build": "108271",

@@ -2,7 +2,7 @@
     "context": "client",
     "identifier": "uk.pa.tetcmappack",
     "display_name": "TheEffectTheCause's Map Pack",
-    "description": "Custom systems made for unshared battles and FFAs.  New planets (2v2, 3v3, 4v4 and 5v5, 12, 16 and 32 players + barren moon maps that work with any number of players) plus a collection of existing 1v1 maps modified for 2v2 unshared.  Symmetrical and balanced.  [ 'NS' in the planet / system names stands for 'non shared' / 'unshared' ]",
+    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs, Even comes with its own custom biomes which are usable in the ingame system editor. Note. the biomes are for planets you intend to edit manually. There are 2 tabs to the pack in order to try keep things accessible, these are TETC 1v1/SHARED/ and TETC Teams/FFA.",
     "author": "TheEffectTheCause",
     "version": "3",
     "build": "108271",

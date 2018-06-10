@@ -24,7 +24,7 @@
     ],
     "priority": 100,
     "classicOnly": false,
-	"classic": true,
+	"classic": false,
     "titans": true,
     "enabled": true,
     "dependencies": [

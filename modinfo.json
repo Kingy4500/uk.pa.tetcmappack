@@ -23,8 +23,8 @@
         "planet"
     ],
     "priority": 100,
-	"titans": true,
-	"classsic": false,
+    "classicOnly": false,
+    "titans": true,
     "enabled": true,
     "dependencies": [
         "com.pa.conundrum.cShareSystems",

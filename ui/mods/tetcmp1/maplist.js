@@ -1,14 +1,11 @@
 cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
-		"coui://ui/mods/tetcmp1/systems/alps1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/balboa1v1.pas",
-		"coui://ui/mods/tetcmp1/systems/bridge1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/chasm1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/choke1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/clickbait1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/cultist1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/dia1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/divided1v1.pas",
-		"coui://ui/mods/tetcmp1/systems/DuelSir1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/egg1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/facial1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/freeze1v1.pas",
@@ -29,11 +26,10 @@ cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
 		"coui://ui/mods/tetcmp1/systems/ti1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/tl1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/tm1v1.pas",
-		"coui://ui/mods/tetcmp1/systems/warlock1v1.pas",
+		"coui://ui/mods/tetcmp1/systems/warlock1v1.pas"
 
 	]);
 cShareSystems.load_pas("TETC Teams/FFA", [
-		"coui://ui/mods/tetcmp1/systems/APAA4v4.pas",
 		"coui://ui/mods/tetcmp1/systems/armour_platelet.pas",
 		"coui://ui/mods/tetcmp1/systems/balboa2v2.pas",
 	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",
@@ -43,7 +39,6 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 		"coui://ui/mods/tetcmp1/systems/bossm4v4.pas",
 		"coui://ui/mods/tetcmp1/systems/broad_walk.pas",
 		"coui://ui/mods/tetcmp1/systems/crowning_glory.pas",
-	        "coui://ui/mods/tetcmp1/systems/constellation.pas",
 		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
 		"coui://ui/mods/tetcmp1/systems/equal_is_not.pas",
                 "coui://ui/mods/tetcmp1/systems/furnace.pas",
@@ -51,13 +46,11 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 	        "coui://ui/mods/tetcmp1/systems/hugger.pas",
 		"coui://ui/mods/tetcmp1/systems/holy_handNS.pas",
 		"coui://ui/mods/tetcmp1/systems/holy_handS.pas",
-		"coui://ui/mods/tetcmp1/systems/imperetah.pas",
 	        "coui://ui/mods/tetcmp1/systems/ijas.pas",
 		"coui://ui/mods/tetcmp1/systems/kothr.pas",
 		"coui://ui/mods/tetcmp1/systems/koth.pas",
 		"coui://ui/mods/tetcmp1/systems/kuppa.pas",
 		"coui://ui/mods/tetcmp1/systems/kuppa_shared.pas",
-		"coui://ui/mods/tetcmp1/systems/oxidisation4v4.pas",
 		"coui://ui/mods/tetcmp1/systems/pebble_dash.pas",
 		"coui://ui/mods/tetcmp1/systems/pinch.pas",
 		"coui://ui/mods/tetcmp1/systems/plotffa.pas",
@@ -76,6 +69,6 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 	        "coui://ui/mods/tetcmp1/systems/the_quarry.pas",
 		"coui://ui/mods/tetcmp1/systems/valley.pas",
 		"coui://ui/mods/tetcmp1/systems/x-nomega.pas",
-		"coui://ui/mods/tetcmp1/systems/yellow_belly.pas",
+		"coui://ui/mods/tetcmp1/systems/yellow_belly.pas"
 
 	]);

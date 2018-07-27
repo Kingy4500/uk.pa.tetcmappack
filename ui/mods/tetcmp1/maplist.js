@@ -31,6 +31,7 @@ cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
 	]);
 cShareSystems.load_pas("TETC Teams/FFA", [
 	       "coui://ui/mods/tetcmp1/systems/plotffa.pas",
+	       "coui://ui/mods/tetcmp1/systems/CBA.pas",
 		"coui://ui/mods/tetcmp1/systems/armour_platelet.pas",
 		"coui://ui/mods/tetcmp1/systems/balboa2v2.pas",
 	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",

@@ -1,5 +1,12 @@
 {
-    "name": "Crossbone 4v4 ns rs",
+    "name": "Crossbone 4v4 ns",
+    "creator": "TheEffectTheCause",
+    "version": "1",
+    "description": "A large platform map for 4v4 ns",
+    "players": [
+        8,
+        8
+    ],
     "planets": [
         {
             "name": "Rollo",

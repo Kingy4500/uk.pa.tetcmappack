@@ -30,6 +30,7 @@ cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
 
 	]);
 cShareSystems.load_pas("TETC Teams/FFA", [
+	       "coui://ui/mods/tetcmp1/systems/plotffa.pas",
 		"coui://ui/mods/tetcmp1/systems/armour_platelet.pas",
 		"coui://ui/mods/tetcmp1/systems/balboa2v2.pas",
 	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",
@@ -39,6 +40,7 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 		"coui://ui/mods/tetcmp1/systems/bossm4v4.pas",
 		"coui://ui/mods/tetcmp1/systems/broad_walk.pas",
 		"coui://ui/mods/tetcmp1/systems/crowning_glory.pas",
+	"coui://ui/mods/tetcmp1/systems/crossbone.pas",
 		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
 		"coui://ui/mods/tetcmp1/systems/equal_is_not.pas",
                 "coui://ui/mods/tetcmp1/systems/furnace.pas",
@@ -46,6 +48,7 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 	        "coui://ui/mods/tetcmp1/systems/hugger.pas",
 		"coui://ui/mods/tetcmp1/systems/holy_handNS.pas",
 		"coui://ui/mods/tetcmp1/systems/holy_handS.pas",
+	"coui://ui/mods/tetcmp1/systems/hitzer.pas",
 	        "coui://ui/mods/tetcmp1/systems/ijas.pas",
 		"coui://ui/mods/tetcmp1/systems/kothr.pas",
 		"coui://ui/mods/tetcmp1/systems/koth.pas",
@@ -53,7 +56,6 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 		"coui://ui/mods/tetcmp1/systems/kuppa_shared.pas",
 		"coui://ui/mods/tetcmp1/systems/pebble_dash.pas",
 		"coui://ui/mods/tetcmp1/systems/pinch.pas",
-		"coui://ui/mods/tetcmp1/systems/plotffa.pas",
 	        "coui://ui/mods/tetcmp1/systems/pockets.pas",
 		"coui://ui/mods/tetcmp1/systems/die.pas",
 		"coui://ui/mods/tetcmp1/systems/screwball.pas",
@@ -66,6 +68,7 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 		"coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas",
 		"coui://ui/mods/tetcmp1/systems/tournament_mountains ns.pas",
 	        "coui://ui/mods/tetcmp1/systems/Tri.pas",
+	"coui://ui/mods/tetcmp1/systems/true_addiction.pas",
 	        "coui://ui/mods/tetcmp1/systems/the_quarry.pas",
 		"coui://ui/mods/tetcmp1/systems/valley.pas",
 		"coui://ui/mods/tetcmp1/systems/x-nomega.pas",

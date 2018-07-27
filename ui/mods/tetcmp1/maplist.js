@@ -63,6 +63,7 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 		"coui://ui/mods/tetcmp1/systems/subversion.pas",
 		"coui://ui/mods/tetcmp1/systems/chaos.pas",
 		"coui://ui/mods/tetcmp1/systems/the_gulch.pas",
+	"coui://ui/mods/tetcmp1/systems/x-nomega.pas",
 		"coui://ui/mods/tetcmp1/systems/the_ring2v2f.pas",
 		"coui://ui/mods/tetcmp1/systems/the_rut.pas",
 		"coui://ui/mods/tetcmp1/systems/the_scramble.pas",
@@ -72,7 +73,6 @@ cShareSystems.load_pas("TETC Teams/FFA", [
 	"coui://ui/mods/tetcmp1/systems/true_addiction.pas",
 	        "coui://ui/mods/tetcmp1/systems/the_quarry.pas",
 		"coui://ui/mods/tetcmp1/systems/valley.pas",
-		"coui://ui/mods/tetcmp1/systems/x-nomega.pas",
 		"coui://ui/mods/tetcmp1/systems/yellow_belly.pas"
 
 	]);

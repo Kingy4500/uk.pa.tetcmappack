@@ -1,5 +1,5 @@
 {
-    "name": "X-Nomeaga573 2v2 NS",
+    "name": "The Grotto 2v2 NS",
 	"creator": "TheEffectTheCause",
     "version": "1",
     "description": "A great map for team games.",

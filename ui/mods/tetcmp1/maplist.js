@@ -1,8 +1,10 @@
 cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
 		"coui://ui/mods/tetcmp1/systems/balboa1v1.pas",
 	"coui://ui/mods/tetcmp1/systems/egg1v1.pas",
+	"coui://ui/mods/tetcmp1/systems/bayou.pas",
 		"coui://ui/mods/tetcmp1/systems/chasm1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/clickbait1v1.pas",
+	"coui://ui/mods/tetcmp1/systems/convergence.pas",
 		"coui://ui/mods/tetcmp1/systems/cultist1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/dia1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/divided1v1.pas",

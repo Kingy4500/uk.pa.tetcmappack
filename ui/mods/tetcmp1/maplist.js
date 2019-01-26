@@ -84,10 +84,10 @@ cShareSystems.load_pas("TETC FFA/Teams", [
 	        "coui://ui/mods/tetcmp1/systems/the_rut.pas",
 	        "coui://ui/mods/tetcmp1/systems/the_gulch.pas",
 	        "coui://ui/mods/tetcmp1/systems/blurs_map.pas",
-		"coui://ui/mods/tetcmp1/systems/hexed.pas",	        	        	     										
-		"coui://ui/mods/tetcmp1/systems/saturn.pas",
+		"coui://ui/mods/tetcmp1/systems/hexed.pas",	        	        	     											
 		"coui://ui/mods/tetcmp1/systems/yellow_belly.pas",
 	        "coui://ui/mods/tetcmp1/systems/wafpffa.pas",
+	        "coui://ui/mods/tetcmp1/systems/saturn.pas",
 	        "coui://ui/mods/tetcmp1/systems/chaos.pas"
 
 	]);

@@ -1,5 +1,12 @@
 {
     "name": "Dog Of War",
+    "creator": "TheEffectTheCause",
+	"version": "1",
+	"description": "Let loose the dogs of war.",
+	"players": [
+		2,
+		4
+	],
     "planets": [
         {
             "name": "Hell's Pass",

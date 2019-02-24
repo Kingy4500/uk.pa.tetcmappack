@@ -53,6 +53,7 @@ cShareSystems.load_pas("TETC Teams", [
 		"coui://ui/mods/tetcmp1/systems/kuppa_shared.pas",
 		"coui://ui/mods/tetcmp1/systems/kuppa.pas",
 	        "coui://ui/mods/tetcmp1/systems/mune5v5.pas",
+	        "coui://ui/mods/tetcmp1/systems/db6.pas",
 		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
 	        "coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas",
 		"coui://ui/mods/tetcmp1/systems/blurs_map.pas"

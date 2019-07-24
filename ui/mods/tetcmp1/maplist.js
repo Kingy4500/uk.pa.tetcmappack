@@ -42,6 +42,7 @@ cShareSystems.load_pas("TETC Teams", [
 		"coui://ui/mods/tetcmp1/systems/valley.pas",
 		"coui://ui/mods/tetcmp1/systems/the_ring2v2f.pas",
 		"coui://ui/mods/tetcmp1/systems/tournament_mountains ns.pas",
+	        "coui://ui/mods/tetcmp1/systems/Tm2v22.pas",
 	        "coui://ui/mods/tetcmp1/systems/bjs.pas",
                 "coui://ui/mods/tetcmp1/systems/furnace.pas",
 	        "coui://ui/mods/tetcmp1/systems/Tri.pas",

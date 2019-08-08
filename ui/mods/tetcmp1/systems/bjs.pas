@@ -1,5 +1,5 @@
 {
-    "name": "Box Jellyfish Shared NEW",
+    "name": "Box Jellyfish Shared",
 	"creator": "TheEffectTheCause",
     "version": "1",
     "description": "A shared naval/land map, a bit of a box, my fave this update, its all about the right approach and some team work. Not symetrical, spawns balanced around position and appropriate plays.",

@@ -1,5 +1,5 @@
 {
-    "name": "Dromo 1v1 Shared NEW",
+    "name": "Dromo 1v1 Shared",
 	"creator": "TheEffectTheCause",
     "version": "1",
     "description": "Random 1v1 system.",

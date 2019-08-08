@@ -1,5 +1,5 @@
 {
-    "name": "Balboa 1v1 Shared v2",
+    "name": "Balboa 1v1 Shared",
     "creator": "TheEffectTheCause",
     "version": "1",
     "description": "Theres no trainer to throw in the towel for you in this arena! For 1v1 and shared teams. Edited to make the map layout less wierd.",

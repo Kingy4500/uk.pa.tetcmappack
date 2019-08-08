@@ -1,5 +1,5 @@
 {
-    "name": "Tarantula 1v1 NEW",
+    "name": "Tarantula 1v1",
 	"creator": "TheEffectTheCause",
     "version": "1",
     "description": "An island with an ocean at the rear.",

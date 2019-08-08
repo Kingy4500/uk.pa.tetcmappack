@@ -1,5 +1,5 @@
 {
-    "name": "Tournament Ice 1v1 Shared UPDATED",
+    "name": "Tournament Ice 1v1 Shared",
 	"creator": "TheEffectTheCause",
     "version": "2",
     "description": "Someone stole santas sled, your opponent seems to think it was you! Theres only one way to settle this now.",

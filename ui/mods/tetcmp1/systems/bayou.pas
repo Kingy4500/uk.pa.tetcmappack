@@ -1,5 +1,5 @@
 {
-    "name": "Bayou",
+    "name": "Bayou Shared",
 	"creator": "TheEffectTheCause",
 	"version": "1",
 	"description": "A 1v1, 2v2 Shared map, Naval and ground combat.",

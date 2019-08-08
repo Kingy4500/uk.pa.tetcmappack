@@ -1,5 +1,5 @@
 {
-    "name": "Tournament Mountain 2 2v2 Shared",
+    "name": "Torunament Ridge 2v2 Shared NEW",
     "creator": "TheEffectTheCause",
 	"version": "1",
 	"description": "Players Spawn either side of a Ridged area cutting the planet in half with a central area of strategic importance. The other side fo the planet is open with pockets for proxy bases and a central crater with a nice amount fo metal for the owner's.",

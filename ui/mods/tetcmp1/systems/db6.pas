@@ -1,5 +1,5 @@
 {
-    "name": "Disco Ball 6v6 NEW",
+    "name": "Disco Ball 6v6",
 	"creator": "TheEffectTheCause",
     "version": "1",
     "description": "Look at my shiny disco ball. A lane map for some gross games.",

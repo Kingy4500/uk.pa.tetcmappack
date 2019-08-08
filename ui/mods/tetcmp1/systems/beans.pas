@@ -1,5 +1,5 @@
 {
-    "name": "Beans - FFA/Teams 8 Players NEW",
+    "name": "Beans - FFA/Teams 8 Players",
 	"creator": "TheEffectTheCause",
     "version": "1",
     "description": "Plays really well with agressive players, Add Queller Uber AI to the mix to provoke agressive behaviour from players and prepare for a good match of PA.",

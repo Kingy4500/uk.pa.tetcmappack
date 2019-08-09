@@ -2,7 +2,7 @@
     "name": "Blurs Map FFA/Teams NEW",
 	"creator": "TheEffectTheCause",
 	"version": "1",
-	"description": "Players spawn around the equatorial region of the planet in a ring on large raised platforms with further raised platforms seperating spawns. The polar regions are open and heavy in metal making them an ideal area to control. Plays well as a FFA and Team Map (my prefered setup: 2v2v2v2v2).",
+	"description": "Players spawn around the equatorial region of the planet in a ring on large raised platforms with further raised platforms seperating spawns. The polar regions are open and heavy in metal making them an ideal area to control. Plays well as a FFA and Team Map.",
 	"players": [
 	    4,
 	    10

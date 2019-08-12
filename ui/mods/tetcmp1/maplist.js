@@ -57,8 +57,7 @@ cShareSystems.load_pas("TETC Teams", [
 	        "coui://ui/mods/tetcmp1/systems/mune5v5.pas",
 	        "coui://ui/mods/tetcmp1/systems/db6.pas",
 		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
-	        "coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas",
-		"coui://ui/mods/tetcmp1/systems/bmotv.pas"
+	        "coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas"
 	
 	]);
 cShareSystems.load_pas("TETC FFA/Teams", [

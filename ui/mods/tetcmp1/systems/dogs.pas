@@ -1,5 +1,5 @@
 {
-    "name": "Dog Of War",
+    "name": "Dog Of War 1v1 Shared",
     "creator": "TheEffectTheCause",
 	"version": "1",
 	"description": "Let loose the dogs of war.",

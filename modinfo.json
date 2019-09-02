@@ -2,14 +2,14 @@
     "context": "client",
     "identifier": "uk.pa.tetcmappack",
     "display_name": "TheEffectTheCause's Map Pack",
-    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs. Update: New Maps: Blurs Map 10 Player FFA/Teams Edit: New version removing polar region platforms, Complete exterior spawn metal rework. Hot Sauce 1v1 Shared. Tournament Ridge 2v2 Ns.",
+    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs. Update:Updated metal in: Water and Firepower (FFA/Teams), Tournament Ridge 2v2.",
     "author": "TheEffectTheCause",
-    "version": "3.1.8",
+    "version": "3.1.9",
     "build": "108271",
-    "date": "2019/08/12",
+    "date": "2019/09/02",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/theeffectthecauses-map-pack.72986/",
-    "icon": "https://imgur.com/a/DoDeLJq",
+    "icon": "https://i.imgur.com/iERzQ3v.jpg",
     "category": [
         "maps"
     ],

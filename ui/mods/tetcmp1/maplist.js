@@ -1,4 +1,4 @@
-cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
+cShareSystems.load_pas("TETC 1v1 Shared", [
 		"coui://ui/mods/tetcmp1/systems/balboa1v1.pas",
 	        "coui://ui/mods/tetcmp1/systems/egg1v1.pas",
 	        "coui://ui/mods/tetcmp1/systems/bayou.pas",
@@ -35,33 +35,19 @@ cShareSystems.load_pas("TETC 1v1 And Shared Teams", [
 		"coui://ui/mods/tetcmp1/systems/warlock1v1.pas"
 
 	]);
-cShareSystems.load_pas("TETC Teams", [
-		"coui://ui/mods/tetcmp1/systems/balboa2v2.pas",
-		"coui://ui/mods/tetcmp1/systems/big_guns.pas", 
+cShareSystems.load_pas("TETC FFA/Teams", [
+	        "coui://ui/mods/tetcmp1/systems/plotffa.pas",
+	        "coui://ui/mods/tetcmp1/systems/balboa2v2.pas",
+	        "coui://ui/mods/tetcmp1/systems/big_guns.pas",
 	        "coui://ui/mods/tetcmp1/systems/hugger.pas",
 	        "coui://ui/mods/tetcmp1/systems/x-nomega.pas",
-		"coui://ui/mods/tetcmp1/systems/valley.pas",
-		"coui://ui/mods/tetcmp1/systems/the_ring2v2f.pas",
+	        "coui://ui/mods/tetcmp1/systems/the_ring2v2f.pas",
 		"coui://ui/mods/tetcmp1/systems/tournament_mountains ns.pas",
 	        "coui://ui/mods/tetcmp1/systems/Tm2v22.pas",
-	        "coui://ui/mods/tetcmp1/systems/bjs.pas",
+		"coui://ui/mods/tetcmp1/systems/valley.pas",
+		"coui://ui/mods/tetcmp1/systems/bjs.pas",
                 "coui://ui/mods/tetcmp1/systems/furnace.pas",
 	        "coui://ui/mods/tetcmp1/systems/Tri.pas",
-		"coui://ui/mods/tetcmp1/systems/bentusi4v4ffa.pas",
-	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",
-		"coui://ui/mods/tetcmp1/systems/bossm4v4.pas",
-		"coui://ui/mods/tetcmp1/systems/holy_handNS.pas",
-		"coui://ui/mods/tetcmp1/systems/holy_handS.pas",
-		"coui://ui/mods/tetcmp1/systems/kuppa_shared.pas",
-		"coui://ui/mods/tetcmp1/systems/kuppa.pas",
-	        "coui://ui/mods/tetcmp1/systems/mune5v5.pas",
-	        "coui://ui/mods/tetcmp1/systems/db6.pas",
-		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
-	        "coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas"
-	
-	]);
-cShareSystems.load_pas("TETC FFA/Teams", [
-	       "coui://ui/mods/tetcmp1/systems/plotffa.pas",
 	        "coui://ui/mods/tetcmp1/systems/hitzer.pas",
 		"coui://ui/mods/tetcmp1/systems/kothr.pas",
 		"coui://ui/mods/tetcmp1/systems/koth.pas",
@@ -81,15 +67,26 @@ cShareSystems.load_pas("TETC FFA/Teams", [
 	        "coui://ui/mods/tetcmp1/systems/true_addiction.pas",	        	
 	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",
 	        "coui://ui/mods/tetcmp1/systems/beans.pas",
+	        "coui://ui/mods/tetcmp1/systems/bentusi4v4ffa.pas",
+	        "coui://ui/mods/tetcmp1/systems/holy_handNS.pas",
+		"coui://ui/mods/tetcmp1/systems/holy_handS.pas",
+	        "coui://ui/mods/tetcmp1/systems/bossm4v4.pas",
 	        "coui://ui/mods/tetcmp1/systems/CBA.pas",
 	        "coui://ui/mods/tetcmp1/systems/screwball.pas",
 	        "coui://ui/mods/tetcmp1/systems/the_rut.pas",
 	        "coui://ui/mods/tetcmp1/systems/the_gulch.pas",
-	        "coui://ui/mods/tetcmp1/systems/bmotv.pas",
-		"coui://ui/mods/tetcmp1/systems/hexed.pas",	        	        	     											
+	        "coui://ui/mods/tetcmp1/systems/kuppa_shared.pas",
+		"coui://ui/mods/tetcmp1/systems/kuppa.pas",
+	        "coui://ui/mods/tetcmp1/systems/mune5v5.pas",
+	        "coui://ui/mods/tetcmp1/systems/db6.pas",
+	        "coui://ui/mods/tetcmp1/systems/bmotv.pas",        	        	     											
 		"coui://ui/mods/tetcmp1/systems/yellow_belly.pas",
 	        "coui://ui/mods/tetcmp1/systems/wafpffa.pas",
+		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
+	        "coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas",
 	        "coui://ui/mods/tetcmp1/systems/saturn.pas",
+	        "coui://ui/mods/tetcmp1/systems/db6.pas",
+	        "coui://ui/mods/tetcmp1/systems/hexed.pas",
 	        "coui://ui/mods/tetcmp1/systems/chaos.pas"
 
 	]);

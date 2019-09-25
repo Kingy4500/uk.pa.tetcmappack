@@ -1,5 +1,5 @@
 {
-    "name": "Lo Wang 1v1",
+    "name": "Lo Wang 1v1 UPDATED",
     "creator": "TheEffectTheCause",
     "version": "4",
     "description": "Players spawn on seperate land masses urging them to defend the land while the map places a focus on naval, 2 islands either side of the main islands make for great positions to secure a win. Reccomended for Skilled Startegic Players.",

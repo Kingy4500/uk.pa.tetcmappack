@@ -2,7 +2,7 @@
     "context": "client",
     "identifier": "uk.pa.tetcmappack",
     "display_name": "TheEffectTheCause's Map Pack",
-    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs. Update:Updated metal in: Water and Firepower (FFA/Teams), Tournament Ridge 2v2.",
+    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs. A variety of maps with differing styles for all types of play. Update: Removed Teams Map List and Merged With TETC FFA/Teams",
     "author": "TheEffectTheCause",
     "version": "3.2.0",
     "build": "108271",

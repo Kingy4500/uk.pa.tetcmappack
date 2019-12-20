@@ -1,8 +1,8 @@
 {
 	"name": "Mune 5v5 NS",
-	"creator": "TheEffectTheCause",
+	"creator": "GrandHomie - TETC Edit",
 	"version": "1",
-	"description": "A metal edit of GrandHomies Lune 5v5v ns, more room to build.",
+	"description": "A metal edit of GrandHomies Lune 5v5 ns, more room to build.",
 	"players": [
 		10,
 		10

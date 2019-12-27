@@ -2,13 +2,13 @@
     "context": "client",
     "identifier": "uk.pa.tetcmappack",
     "display_name": "TheEffectTheCause's Map Pack",
-    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs. A variety of maps with differing styles for all types of play. Update: Updated Lo Wang 1v1, new layout. Removed Teams Map List and Merged With TETC FFA/Teams",
+    "description": "Wierd, Wonderful and damn right crazy maps for all your PA needs. A variety of maps with differing styles for all types of play. Update:Created a new forum Page",
     "author": "TheEffectTheCause",
-    "version": "3.2.1",
+    "version": "3.2.2",
     "build": "108271",
-    "date": "2019/09/25",
+    "date": "2019/12/27",
     "signature": "not yet implemented",
-    "forum": "https://forums.uberent.com/threads/theeffectthecauses-map-pack.72986/",
+    "forum": "https://forums.planetaryannihilation.com/threads/theeffectthecause-map-pack.73439/",
     "icon": "https://i.imgur.com/iERzQ3v.jpg",
     "category": [
         "maps"

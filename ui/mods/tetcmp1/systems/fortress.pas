@@ -4,8 +4,8 @@
     "version": "1",
     "description": "Strategic team play map with a large forteress to control, for 3v3v3v3 unshared teams, spawms configured for 3v3 also, map maybe a little too rich and widespread for smaller team game's. Report Feedback to the mappack forum.",
     "players": [
-        4,
-        4
+        6,
+        12
     ],
     "planets": [
         {

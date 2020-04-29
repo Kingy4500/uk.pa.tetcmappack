@@ -61,6 +61,7 @@ cShareSystems.load_pas("TETC FFA/Teams", [
 		"coui://ui/mods/tetcmp1/systems/cue_tip.pas",
 	        "coui://ui/mods/tetcmp1/systems/toroidal_vortetc.pas",
 	        "coui://ui/mods/tetcmp1/systems/saturn.pas",
-	        "coui://ui/mods/tetcmp1/systems/db6.pas"
+	        "coui://ui/mods/tetcmp1/systems/db6.pas",
+	        "coui://ui/mods/tetcmp1/systems/fortress.pas"
 
 	]);

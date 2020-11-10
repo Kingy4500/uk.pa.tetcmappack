@@ -11,7 +11,6 @@ cShareSystems.load_pas("TETC 1v1 Shared", [
 	        "coui://ui/mods/tetcmp1/systems/hot_sauce.pas",
 		"coui://ui/mods/tetcmp1/systems/iceg1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/offsym1v1.pas",
-		"coui://ui/mods/tetcmp1/systems/onions1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/orange1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/ponds1v1.pas",
 		"coui://ui/mods/tetcmp1/systems/rodeo1v1.pas",

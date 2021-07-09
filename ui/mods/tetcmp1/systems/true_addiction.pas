@@ -7055,7 +7055,7 @@
             }
         },
         {
-            "name": "The next Fix.",
+            "name": "The next fix",
             "mass": 50000,
             "position_x": 40000,
             "position_y": -0.0012714603217318654,

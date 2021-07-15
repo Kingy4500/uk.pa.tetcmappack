@@ -1,6 +1,6 @@
 {
     "name": "True Addiction - Teams FFA NS/S",
-    "description": "Try not to screw your chances on life or you may just end up with no money, on Heroin and fighting for The next fix, not to worry though, there's always Benefit's! A system with a message. Version 2",
+    "description": "Try not to screw your chances on life or you may just end up with no money, on Heroin and fighting for The next fix, not to worry though, there's always Benefit's! Version 2",
     "creator": "TheEffectTheCause",
     "version": "2",
     "planets": [

@@ -1,12 +1,8 @@
 {
     "name": "Saturn System Large Teams FFA",
-	"creator": "TheEffectTheCause",
-	"version": "1",
-	"description": "A large orbital system for many many players.",
-	"players": [
-		5,
-		20
-	],
+    "description": "A large orbital system for many many players.",
+    "creator": "TheEffectTheCause",
+    "version": "2",
     "planets": [
         {
             "name": "Saturn",
@@ -38,7 +34,8 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         },
         {
@@ -56,13 +53,13 @@
             "max_spawn_delay": 0,
             "planet": {
                 "seed": 1665460608,
-                "radius": 600,
+                "radius": 740,
                 "heightRange": 25,
                 "waterHeight": 0,
                 "waterDepth": 100,
                 "temperature": 0,
                 "metalDensity": 100,
-                "metalClusters": 11,
+                "metalClusters": 36,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
@@ -71,7 +68,8 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         },
         {
@@ -89,13 +87,13 @@
             "max_spawn_delay": 0,
             "planet": {
                 "seed": 1868999040,
-                "radius": 600,
+                "radius": 620,
                 "heightRange": 20,
                 "waterHeight": 0,
                 "waterDepth": 100,
                 "temperature": 0,
-                "metalDensity": 95,
-                "metalClusters": 15.000000953674316,
+                "metalDensity": 94,
+                "metalClusters": 66,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
@@ -104,7 +102,8 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         },
         {
@@ -137,7 +136,8 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         },
         {
@@ -160,7 +160,7 @@
                 "waterHeight": 0,
                 "waterDepth": 100,
                 "temperature": 0,
-                "metalDensity": 11,
+                "metalDensity": 56,
                 "metalClusters": 25,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
@@ -170,7 +170,8 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         },
         {
@@ -188,13 +189,13 @@
             "max_spawn_delay": 0,
             "planet": {
                 "seed": 1798178048,
-                "radius": 730,
+                "radius": 820,
                 "heightRange": 50,
                 "waterHeight": 0,
                 "waterDepth": 100,
                 "temperature": 0,
-                "metalDensity": 70,
-                "metalClusters": 47,
+                "metalDensity": 82,
+                "metalClusters": 58.999996185302734,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
@@ -203,7 +204,8 @@
                 "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         }
     ]

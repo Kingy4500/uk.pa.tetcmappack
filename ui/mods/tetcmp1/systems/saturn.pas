@@ -2,7 +2,7 @@
     "name": "Saturn System Large Teams FFA",
     "description": "A large orbital system for many many players.",
     "creator": "TheEffectTheCause",
-    "version": "2",
+    "version": "1",
     "planets": [
         {
             "name": "Saturn",
@@ -59,15 +59,15 @@
                 "waterDepth": 100,
                 "temperature": 0,
                 "metalDensity": 100,
-                "metalClusters": 36,
+                "metalClusters": 46,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
                 "symmetryType": "none",
                 "symmetricalMetal": false,
                 "symmetricalStarts": false,
-                "numArmies": 2,
-                "landingZonesPerArmy": 0,
+                "numArmies": 5,
+                "landingZonesPerArmy": 3,
                 "landingZoneSize": 0,
                 "heightAdjustments": []
             }
@@ -92,16 +92,16 @@
                 "waterHeight": 0,
                 "waterDepth": 100,
                 "temperature": 0,
-                "metalDensity": 94,
-                "metalClusters": 66,
+                "metalDensity": 100,
+                "metalClusters": 72,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
                 "biome": "moon",
                 "symmetryType": "none",
                 "symmetricalMetal": false,
                 "symmetricalStarts": false,
-                "numArmies": 2,
-                "landingZonesPerArmy": 0,
+                "numArmies": 6,
+                "landingZonesPerArmy": 3,
                 "landingZoneSize": 0,
                 "heightAdjustments": []
             }

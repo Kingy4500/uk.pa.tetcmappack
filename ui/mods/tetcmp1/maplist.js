@@ -41,7 +41,6 @@ cShareSystems.load_pas("TETC FFA/Teams", [
 	        "coui://ui/mods/tetcmp1/systems/true_addiction.pas",	        	
 	        "coui://ui/mods/tetcmp1/systems/EGGNS.pas",
 	        "coui://ui/mods/tetcmp1/systems/beans.pas",
-	        "coui://ui/mods/tetcmp1/systems/bentusi4v4ffa.pas",
 	        "coui://ui/mods/tetcmp1/systems/holy_handNS.pas",
 		"coui://ui/mods/tetcmp1/systems/holy_handS.pas",
 	        "coui://ui/mods/tetcmp1/systems/bossm4v4.pas",
